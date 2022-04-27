@@ -74,7 +74,7 @@ Second_Activity.class);
 ```
 
 ### Second_Activity.java:
-```
+```java
 package com.example.workshop2;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
