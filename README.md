@@ -3,10 +3,10 @@
 Show Image file sending data from one activity to another activity screenshot using android studio.
 
 ## PROCEDURE:
-Step-1:Use Android StudioIDE to create an Android application and name it as My App under a package com.example.MyApp, with blank Activity. 
-Step-2: Modify the default content of res/layout/activity_main.xml file to display the required content and design the layout. 
-Step-3: Add the following code to src/MainActivity.java 
-Step-4: Create an empty activity and add the following code.
+Step-1:Use Android StudioIDE to create an Android application and name it as My App under a package com.example.MyApp, with blank Activity.\
+Step-2: Modify the default content of res/layout/activity_main.xml file to display the required content and design the layout.\
+Step-3: Add the following code to src/MainActivity.java.\
+Step-4: Create an empty activity and add the following code.\
 Step-5: Run your application.
 ## PROGRAM:
 ### Mainactivity.java:
@@ -131,10 +131,10 @@ public class Second_Activity extends AppCompatActivity {
 ## Aim:
 Display the output for arithmetic operations using android studio
 ## Procedure :
-Step-1:Use Android StudioIDE to create an Android application and name it as My App under a package com.example.MyApp, with blank Activity. 
-Step-2: Modify the default content of res/layout/activity_main.xml file to display the required content and design the layout. 
-Step-3: Add the following code to src/MainActivity.java 
-Step-4: Create an empty activity and add the following code for arthimetic operations
+Step-1:Use Android StudioIDE to create an Android application and name it as My App under a package com.example.MyApp, with blank Activity.\
+Step-2: Modify the default content of res/layout/activity_main.xml file to display the required content and design the layout.\
+Step-3: Add the following code to src/MainActivity.java.\
+Step-4: Create an empty activity and add the following code for arthimetic operations.\
 Step-5: Run your application
 ## Source code
 ### MainActivity.java
